@@ -40,4 +40,4 @@ Click the button, and it will led you to the artist's Kemono page.
 | [Patron](https://www.patreon.com/) | `www.patreon.com/[username]`     |   ✅   |
 |                                    | `www.patreon.com/user?u=[id]`    |   ✅   |
 | [Fansly](https://fansly.com/)      | `fansly.com/[username]`          |   ✅   |
-| [OF](https://onlyfans.com/)        | `onlyfans.com/[username]`        |   ✅   |
+| [OF](https://onlyfans.com/lilazh)        | `onlyfans.com/[lilazh]`        |   ✅   |
